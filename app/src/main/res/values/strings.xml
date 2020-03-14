@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Forward Chaining</string>
+    <string name="demam">Demam</string>
+    <string name="nyeri_tenggorokan">Nyeri Tenggorokan</string>
+    <string name="tenggorokan_tampak_merah">Tenggorokan Tampak Merah</string>
+    <string name="pembengkakan_kelenjar_getah_bening">Pembengkakan Kelenjar Getah Bening</string>
+    <string name="sakit_kepala">Sakit Kepala</string>
+    <string name="hidung_meler">Hidung Meler</string>
+    <string name="batuk">Batuk</string>
+    <string name="nyeri_otot">Nyeri Otot</string>
+    <string name="nyeri_sendi">Nyeri Sendi</string>
+    <string name="kemerahan_kulit">Kemerahan Kulit</string>
+    <string name="muncul_bintik_bintik_merah">Muncul Bintik Bintik Merah</string>
+    <string name="tubuh_mengigil">Tubuh Mengigil</string>
+    <string name="deteksi">Deteksi</string>
+    <string name="nama_penyakit">Nama Penyakit</string>
+</resources>
